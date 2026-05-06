@@ -1,5 +1,5 @@
 # Question number: 1
-# Level: esay
+# Level: easy
 # Author: Naama Tzadok
 # Date: 26.4.2026
 
