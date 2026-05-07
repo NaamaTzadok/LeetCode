@@ -1,7 +1,7 @@
 # Question number: 20
 # Level: easy
 # Author: Naama Tzadok
-# Date: Apr 12, 2026 10:59
+# Date: Oct 23, 2025 12:45
 
 
 class Solution:
