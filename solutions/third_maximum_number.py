@@ -3,6 +3,7 @@
 # Author: Naama Tzadok
 # Date: May 10, 2026 10:42
 
+from typing import List
 
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
