@@ -1,7 +1,7 @@
 # Question number: 448
 # Level: easy
 # Author: Naama Tzadok
-# Date: Nov 02, 2025 10:31
+# Date: May 11, 2026 10:16
 
 from typing import List
 
