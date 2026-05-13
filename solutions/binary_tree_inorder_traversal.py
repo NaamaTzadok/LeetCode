@@ -1,5 +1,5 @@
-# Question number: 984
-# Level: medium
+# Question number: 94
+# Level: easy
 # Author: Naama Tzadok
 # Date: Oct 23, 2025 14:27
 
