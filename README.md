@@ -42,6 +42,7 @@
 | 148 | Sort List | [solutions/sort_list.py](solutions/sort_list.py) |
 | 149 | Max Points On A Line | [solutions/max_points_on_a_line.py](solutions/max_points_on_a_line.py) |
 | 151 | Reverse Words In A String | [solutions/reverse_words_in_a_string.py](solutions/reverse_words_in_a_string.py) |
+| 168 | Excel Sheet Column Title | [solutions/excel_sheet_column_title.py](solutions/excel_sheet_column_title.py) |
 | 169 | Majority Element | [solutions/majority_element.py](solutions/majority_element.py) |
 | 203 | Remove Linked List Elements | [solutions/remove_linked_list_elements.py](solutions/remove_linked_list_elements.py) |
 | 206 | Reverse Linked List | [solutions/reverse_linked_list.py](solutions/reverse_linked_list.py) |
