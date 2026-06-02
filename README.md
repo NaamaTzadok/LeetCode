@@ -55,3 +55,4 @@
 | 414 | Third Maximum Number | [solutions/third_maximum_number.py](solutions/third_maximum_number.py) |
 | 415 | Add Strings | [solutions/add_strings.py](solutions/add_strings.py) |
 | 448 | Find All Numbers Disappeared In An Array | [solutions/find_all_numbers_disappeared_in_an_array.py](solutions/find_all_numbers_disappeared_in_an_array.py) |
+| 459 | Repeated Substring Pattern | [solutions/repeated_substring_pattern.py](solutions/repeated_substring_pattern.py) |
