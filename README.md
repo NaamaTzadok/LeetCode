@@ -3,6 +3,7 @@
 | # | Problem | Solution |
 |---|---------|----------|
 | 1 | Two Sum | [solutions/two_sum.py](solutions/two_sum.py) |
+| 2 | Add Two Numbers | [solutions/add_two_numbers.py](solutions/add_two_numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | [solutions/longest_substring_without_repeating_characters.py](solutions/longest_substring_without_repeating_characters.py) |
 | 8 | String To Integer (atoi) | [solutions/string_to_integer_(atoi).py](solutions/string_to_integer_(atoi).py) |
 | 9 | Palindrome Number | [solutions/palindrome_number.py](solutions/palindrome_number.py) |
