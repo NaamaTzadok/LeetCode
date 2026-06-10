@@ -57,6 +57,7 @@
 | 258 | Add Digits | [solutions/add_digits.py](solutions/add_digits.py) |
 | 342 | Power Of Four | [solutions/power_of_four.py](solutions/power_of_four.py) |
 | 350 | Intersection Of Two Arrays II | [solutions/intersection_of_two_arrays_II.py](solutions/intersection_of_two_arrays_II.py) |
+| 387 | First Unique Character in a String | [solutions/first_unique_character_in_a_string.py](solutions/first_unique_character_in_a_string.py) |
 | 414 | Third Maximum Number | [solutions/third_maximum_number.py](solutions/third_maximum_number.py) |
 | 415 | Add Strings | [solutions/add_strings.py](solutions/add_strings.py) |
 | 448 | Find All Numbers Disappeared In An Array | [solutions/find_all_numbers_disappeared_in_an_array.py](solutions/find_all_numbers_disappeared_in_an_array.py) |
