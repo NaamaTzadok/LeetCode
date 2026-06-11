@@ -22,6 +22,7 @@
 | 56 | Merge Intervals | [solutions/merge_intervals.py](solutions/merge_intervals.py) |
 | 58 | Length Of Last Word | [solutions/length_of_last_word.py](solutions/length_of_last_word.py) |
 | 64 | Minimum Path Sum | [solutions/minimum_path_sum.py](solutions/minimum_path_sum) |
+| 66 | Plus One | [solutions/plus_one.py](solutions/plus_one.py) |
 | 67 | Add Binary | [solutions/add_binary.py](solutions/add_binary.py) |
 | 70 | Climbing Stairs | [solutions/climbing_stairs.py](solutions/climbing_stairs.py) |
 | 76 | Minimum Window Substring | [solutions/minimum_window_substring.py](solutions/minimum_window_substring.py) |
