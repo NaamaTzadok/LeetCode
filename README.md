@@ -42,7 +42,7 @@
 | 119 | Pascal's Triangle II | [solutions/pascal's_triangle_II.py](solutions/pascal's_triangle_II.py) |
 | 121 | Best Time To Buy And Sell Stock | [solutions/best_time_to_buy_and_sell_stock.py](solutions/best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | [solutions/valid_palindrome.py](solutions/valid_palindrome.py) |
-| 136 | Single Number | [solutions/single_number.py] (solutions/single_number.py) |
+| 136 | Single Number | [solutions/single_number.py](solutions/single_number.py) |
 | 141 | Linked List Cycle | [solutions/linked_list_cycle.py](solutions/linked_list_cycle.py) |
 | 148 | Sort List | [solutions/sort_list.py](solutions/sort_list.py) |
 | 149 | Max Points On A Line | [solutions/max_points_on_a_line.py](solutions/max_points_on_a_line.py) |
