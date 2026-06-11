@@ -57,6 +57,7 @@
 | 257 | Binary Tree Paths | [solutions/binary_tree_paths.py](solutions/binary_tree_paths.py) |
 | 258 | Add Digits | [solutions/add_digits.py](solutions/add_digits.py) |
 | 342 | Power Of Four | [solutions/power_of_four.py](solutions/power_of_four.py) |
+| 349 | Intersection Of Two Arrays | [solutions/intersection_of_two_arrays.py](solutions/intersection_of_two_arrays) |
 | 350 | Intersection Of Two Arrays II | [solutions/intersection_of_two_arrays_II.py](solutions/intersection_of_two_arrays_II.py) |
 | 387 | First Unique Character in a String | [solutions/first_unique_character_in_a_string.py](solutions/first_unique_character_in_a_string.py) |
 | 414 | Third Maximum Number | [solutions/third_maximum_number.py](solutions/third_maximum_number.py) |
