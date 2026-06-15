@@ -52,6 +52,7 @@
 | 171 | Excel Sheet Column Number | [solutions/excel_sheet_column_number.py](solutions/excel_sheet_column_number.py) |
 | 190 | Reverse Bits | [solutions/reverse_bits.py](solutions/reverse_bits.py) |
 | 203 | Remove Linked List Elements | [solutions/remove_linked_list_elements.py](solutions/remove_linked_list_elements.py) |
+| 205 | Isomorphic Strings | [solutions/isomorphic_strings.py](solutions/isomorphic_strings.py) |
 | 206 | Reverse Linked List | [solutions/reverse_linked_list.py](solutions/reverse_linked_list.py) |
 | 219 | Contains Duplicate II | [solutions/contains_duplicate_II.py](solutions/contains_duplicate_II.py) |
 | 228 | Summary Ranges | [solutions/summary_ranges.py](solutions/summary_ranges.py) |
