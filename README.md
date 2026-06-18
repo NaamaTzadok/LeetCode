@@ -65,5 +65,6 @@
 | 387 | First Unique Character in a String | [solutions/first_unique_character_in_a_string.py](solutions/first_unique_character_in_a_string.py) |
 | 414 | Third Maximum Number | [solutions/third_maximum_number.py](solutions/third_maximum_number.py) |
 | 415 | Add Strings | [solutions/add_strings.py](solutions/add_strings.py) |
+| 434 | Number of Segments in a String | [solutions/number_of_segments_in_a_string.py](number_of_segments_in_a_string.py) |
 | 448 | Find All Numbers Disappeared In An Array | [solutions/find_all_numbers_disappeared_in_an_array.py](solutions/find_all_numbers_disappeared_in_an_array.py) |
 | 459 | Repeated Substring Pattern | [solutions/repeated_substring_pattern.py](solutions/repeated_substring_pattern.py) |
