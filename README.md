@@ -32,6 +32,7 @@
 | 94 | Binary Tree Inorder Traversal | [solutions/binary_tree_inorder_traversal.py](solutions/binary_tree_inorder_traversal.py) |
 | 98 | Validate Binary Search Tree | [solutions/validate_binary_search_tree.py](solutions/validate_binary_search_tree.py) |
 | 100 | Same Tree | [solutions/same_tree.py](solutions/same_tree.py) |
+| 101 | Symmetric Tree | [solutions/symmetric_tree.py](solutions/symmetric_tree.py) |
 | 102 | Binary Tree Level Order Traversal | [solutions/binary_tree_level_order_traversal.py](solutions/binary_tree_level_order_traversal.py) |
 | 105 | Construct Binary Tree From Preorder And Inorder Traversal | [solutions/construct_binary_tree_from_preorder_and_inorder_traversal.py](solutions/construct_binary_tree_from_preorder_and_inorder_traversal.py) |
 | 108 | Convert Sorted Array To Binary Search Tree | [solutions/convert_sorted_array_to_binary_search_tree.py](solutions/convert_sorted_array_to_binary_search_tree.py) |
