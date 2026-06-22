@@ -57,6 +57,7 @@
 | 205 | Isomorphic Strings | [solutions/isomorphic_strings.py](solutions/isomorphic_strings.py) |
 | 206 | Reverse Linked List | [solutions/reverse_linked_list.py](solutions/reverse_linked_list.py) |
 | 219 | Contains Duplicate II | [solutions/contains_duplicate_II.py](solutions/contains_duplicate_II.py) |
+| 226 | Invert Binary Tree | [solutions/invert_binary_tree.py](solutions/invert_binary_tree.py) |
 | 228 | Summary Ranges | [solutions/summary_ranges.py](solutions/summary_ranges.py) |
 | 257 | Binary Tree Paths | [solutions/binary_tree_paths.py](solutions/binary_tree_paths.py) |
 | 258 | Add Digits | [solutions/add_digits.py](solutions/add_digits.py) |
