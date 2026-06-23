@@ -61,6 +61,7 @@
 | 228 | Summary Ranges | [solutions/summary_ranges.py](solutions/summary_ranges.py) |
 | 257 | Binary Tree Paths | [solutions/binary_tree_paths.py](solutions/binary_tree_paths.py) |
 | 258 | Add Digits | [solutions/add_digits.py](solutions/add_digits.py) |
+| 326 | Power of Three | [solutions/power_of_three.py](solutions/power_of_three.py) |
 | 342 | Power Of Four | [solutions/power_of_four.py](solutions/power_of_four.py) |
 | 349 | Intersection Of Two Arrays | [solutions/intersection_of_two_arrays.py](solutions/intersection_of_two_arrays) |
 | 350 | Intersection Of Two Arrays II | [solutions/intersection_of_two_arrays_II.py](solutions/intersection_of_two_arrays_II.py) |
