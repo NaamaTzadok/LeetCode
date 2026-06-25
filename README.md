@@ -45,6 +45,7 @@
 | 125 | Valid Palindrome | [solutions/valid_palindrome.py](solutions/valid_palindrome.py) |
 | 136 | Single Number | [solutions/single_number.py](solutions/single_number.py) |
 | 141 | Linked List Cycle | [solutions/linked_list_cycle.py](solutions/linked_list_cycle.py) |
+| 143 | Reorder List | [solutions/reorder_list.py](solutions/reorder_list.py) |
 | 145 | Binary Tree Postorder Traversal | [solutions/binary_tree_postorder_traversal.py](solutions/binary_tree_postorder_traversal) |
 | 148 | Sort List | [solutions/sort_list.py](solutions/sort_list.py) |
 | 149 | Max Points On A Line | [solutions/max_points_on_a_line.py](solutions/max_points_on_a_line.py) |
