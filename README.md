@@ -45,6 +45,7 @@
 | 121 | Best Time To Buy And Sell Stock | [solutions/best_time_to_buy_and_sell_stock.py](solutions/best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | [solutions/valid_palindrome.py](solutions/valid_palindrome.py) |
 | 136 | Single Number | [solutions/single_number.py](solutions/single_number.py) |
+| 138 | Copy List with Random Pointer | [solutions/copy_list_with_random_pointer.py](solutions/copy_list_with_random_pointer.py) |
 | 141 | Linked List Cycle | [solutions/linked_list_cycle.py](solutions/linked_list_cycle.py) |
 | 143 | Reorder List | [solutions/reorder_list.py](solutions/reorder_list.py) |
 | 145 | Binary Tree Postorder Traversal | [solutions/binary_tree_postorder_traversal.py](solutions/binary_tree_postorder_traversal) |
