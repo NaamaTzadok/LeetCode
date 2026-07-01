@@ -14,6 +14,7 @@
 | 15 | 3sum | [solutions/3sum.py](solutions/3sum.py) |
 | 20 | Valid Parentheses | [solutions/valid_parentheses.py](solutions/valid_parentheses.py) |
 | 26 | Remove Duplicates From Sorted Array | [solutions/remove_duplicates_from_sorted_array.py](solutions/remove_duplicates_from_sorted_array.py) |
+| 27 | Remove Element | [solutions/remove_element.py](solutions/remove_element.py) |
 | 28 | Find The Index Of The First Occurrence In A String | [solutions/find_the_index_of_the_first_occurrence_in_a_string.py](solutions/find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | [solutions/search_insert_position.py](solutions/search_insert_position.py) |
 | 36 | Valid Sudoku | [solutions/valid_sudoku.py](solutions/valid_sudoku.py) |
