@@ -45,6 +45,7 @@
 | 119 | Pascal's Triangle II | [solutions/pascal's_triangle_II.py](solutions/pascal's_triangle_II.py) |
 | 121 | Best Time To Buy And Sell Stock | [solutions/best_time_to_buy_and_sell_stock.py](solutions/best_time_to_buy_and_sell_stock.py) |
 | 125 | Valid Palindrome | [solutions/valid_palindrome.py](solutions/valid_palindrome.py) |
+| 128 | Longest Consecutive Sequence | [solutions/longest_consecutive_sequence.py](solutions/longest_consecutive_sequence.py) |
 | 136 | Single Number | [solutions/single_number.py](solutions/single_number.py) |
 | 138 | Copy List with Random Pointer | [solutions/copy_list_with_random_pointer.py](solutions/copy_list_with_random_pointer.py) |
 | 141 | Linked List Cycle | [solutions/linked_list_cycle.py](solutions/linked_list_cycle.py) |
