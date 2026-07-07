@@ -22,6 +22,7 @@
 | 42 | Trapping Rain Water | [solutions/trapping_rain_water.py](solutions/trapping_rain_water.py) |
 | 49 | Group Anagrams | [solutions/group_anagrams.py](solutions/group_anagrams.py) |
 | 51 | N Queens | [solutions/n_queens.py](solutions/n_queens.py) |
+| 54 | Spiral Matrix | [solutions/spiral_matrix.py](solutions/spiral_matrix.py) |
 | 56 | Merge Intervals | [solutions/merge_intervals.py](solutions/merge_intervals.py) |
 | 58 | Length Of Last Word | [solutions/length_of_last_word.py](solutions/length_of_last_word.py) |
 | 64 | Minimum Path Sum | [solutions/minimum_path_sum.py](solutions/minimum_path_sum) |
