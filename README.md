@@ -30,6 +30,7 @@
 | 67 | Add Binary | [solutions/add_binary.py](solutions/add_binary.py) |
 | 70 | Climbing Stairs | [solutions/climbing_stairs.py](solutions/climbing_stairs.py) |
 | 76 | Minimum Window Substring | [solutions/minimum_window_substring.py](solutions/minimum_window_substring.py) |
+| 83 | Remove Duplicates from Sorted List | [solutions/remove_duplicates_from_sorted_list.py](solutions/remove_duplicates_from_sorted_list.py) |
 | 86 | Partition List | [solutions/partition_list.py](solutions/partition_list.py) |
 | 88 | Merge Sorted Array | [solutions/merge_sorted_array.py](solutions/merge_sorted_array.py) |
 | 89 | Gray Code | [solutions/gray_code.py](solutions/gray_code.py) |
