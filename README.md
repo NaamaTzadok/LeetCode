@@ -20,6 +20,7 @@
 | 35 | Search Insert Position | [solutions/search_insert_position.py](solutions/search_insert_position.py) |
 | 36 | Valid Sudoku | [solutions/valid_sudoku.py](solutions/valid_sudoku.py) |
 | 42 | Trapping Rain Water | [solutions/trapping_rain_water.py](solutions/trapping_rain_water.py) |
+| 46 | Permutations | [solutions/permutations.py](solutions/permutations.py) |
 | 49 | Group Anagrams | [solutions/group_anagrams.py](solutions/group_anagrams.py) |
 | 51 | N Queens | [solutions/n_queens.py](solutions/n_queens.py) |
 | 54 | Spiral Matrix | [solutions/spiral_matrix.py](solutions/spiral_matrix.py) |
