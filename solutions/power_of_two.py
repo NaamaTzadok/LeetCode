@@ -1,7 +1,7 @@
 # Question number: 231
 # Level: easy
 # Author: Naama Tzadok
-# Date: May 25, 2026 10:21
+# Date: Jul 13, 2026 09:49
 
 #################
 # Naive Solution:
