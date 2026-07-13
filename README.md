@@ -69,6 +69,7 @@
 | 219 | Contains Duplicate II | [solutions/contains_duplicate_II.py](solutions/contains_duplicate_II.py) |
 | 226 | Invert Binary Tree | [solutions/invert_binary_tree.py](solutions/invert_binary_tree.py) |
 | 228 | Summary Ranges | [solutions/summary_ranges.py](solutions/summary_ranges.py) |
+| 231 | Power of Two | [solutions/power_of_two.py](solutions/power_of_two.py) |
 | 232 | Implement Queue using Stacks | [solutions/implement_queue_using_stacks.py](solutions/implement_queue_using_stacks.py) |
 | 234 | Palindrome Linked List | [solutions/palindrome_linked_list.py](solutions/palindrome_linked_list.py) |
 | 257 | Binary Tree Paths | [solutions/binary_tree_paths.py](solutions/binary_tree_paths.py) |
