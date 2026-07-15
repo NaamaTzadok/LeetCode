@@ -75,6 +75,7 @@
 | 234 | Palindrome Linked List | [solutions/palindrome_linked_list.py](solutions/palindrome_linked_list.py) |
 | 257 | Binary Tree Paths | [solutions/binary_tree_paths.py](solutions/binary_tree_paths.py) |
 | 258 | Add Digits | [solutions/add_digits.py](solutions/add_digits.py) |
+| 303 | Range Sum Query - Immutable | [solutions/range_sum_query-immutable.py](solutions/range_sum_query-immutable.py) |
 | 326 | Power of Three | [solutions/power_of_three.py](solutions/power_of_three.py) |
 | 342 | Power Of Four | [solutions/power_of_four.py](solutions/power_of_four.py) |
 | 349 | Intersection Of Two Arrays | [solutions/intersection_of_two_arrays.py](solutions/intersection_of_two_arrays) |
