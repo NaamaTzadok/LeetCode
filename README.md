@@ -68,6 +68,7 @@
 | 205 | Isomorphic Strings | [solutions/isomorphic_strings.py](solutions/isomorphic_strings.py) |
 | 206 | Reverse Linked List | [solutions/reverse_linked_list.py](solutions/reverse_linked_list.py) |
 | 219 | Contains Duplicate II | [solutions/contains_duplicate_II.py](solutions/contains_duplicate_II.py) |
+| 222 | Count Complete Tree Nodes | [solutions/count_complete_tree_nodes.py](count_complete_tree_nodes.py) |
 | 226 | Invert Binary Tree | [solutions/invert_binary_tree.py](solutions/invert_binary_tree.py) |
 | 228 | Summary Ranges | [solutions/summary_ranges.py](solutions/summary_ranges.py) |
 | 231 | Power of Two | [solutions/power_of_two.py](solutions/power_of_two.py) |
