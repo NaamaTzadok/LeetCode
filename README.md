@@ -29,6 +29,7 @@
 | 64 | Minimum Path Sum | [solutions/minimum_path_sum.py](solutions/minimum_path_sum) |
 | 66 | Plus One | [solutions/plus_one.py](solutions/plus_one.py) |
 | 67 | Add Binary | [solutions/add_binary.py](solutions/add_binary.py) |
+| 69 | Sqrt(x) | [solutions/sqrt(x).py](solutions/sqrt(x).py) |
 | 70 | Climbing Stairs | [solutions/climbing_stairs.py](solutions/climbing_stairs.py) |
 | 76 | Minimum Window Substring | [solutions/minimum_window_substring.py](solutions/minimum_window_substring.py) |
 | 83 | Remove Duplicates from Sorted List | [solutions/remove_duplicates_from_sorted_list.py](solutions/remove_duplicates_from_sorted_list.py) |
