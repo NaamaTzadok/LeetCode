@@ -27,7 +27,7 @@
 | 54 | Spiral Matrix | [solutions/spiral_matrix.py](solutions/spiral_matrix.py) |
 | 56 | Merge Intervals | [solutions/merge_intervals.py](solutions/merge_intervals.py) |
 | 58 | Length Of Last Word | [solutions/length_of_last_word.py](solutions/length_of_last_word.py) |
-| 64 | Minimum Path Sum | [solutions/minimum_path_sum.py](solutions/minimum_path_sum) |
+| 64 | Minimum Path Sum | [solutions/minimum_path_sum.py](solutions/minimum_path_sum.py) |
 | 66 | Plus One | [solutions/plus_one.py](solutions/plus_one.py) |
 | 67 | Add Binary | [solutions/add_binary.py](solutions/add_binary.py) |
 | 69 | Sqrt(x) | [solutions/sqrt(x).py](solutions/sqrt(x).py) |
@@ -38,6 +38,7 @@
 | 88 | Merge Sorted Array | [solutions/merge_sorted_array.py](solutions/merge_sorted_array.py) |
 | 89 | Gray Code | [solutions/gray_code.py](solutions/gray_code.py) |
 | 94 | Binary Tree Inorder Traversal | [solutions/binary_tree_inorder_traversal.py](solutions/binary_tree_inorder_traversal.py) |
+| 96 | Unique Binary Search Trees | [solutions/unique_binary_search_trees.py](solutions/unique_binary_search_trees.py) |
 | 97 | Interleaving String | [solutions/interleaving_string.py](solutions/interleaving_string.py) |
 | 98 | Validate Binary Search Tree | [solutions/validate_binary_search_tree.py](solutions/validate_binary_search_tree.py) |
 | 100 | Same Tree | [solutions/same_tree.py](solutions/same_tree.py) |
