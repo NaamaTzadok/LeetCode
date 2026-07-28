@@ -26,6 +26,7 @@
 | 51 | N Queens | [solutions/n_queens.py](solutions/n_queens.py) |
 | 54 | Spiral Matrix | [solutions/spiral_matrix.py](solutions/spiral_matrix.py) |
 | 56 | Merge Intervals | [solutions/merge_intervals.py](solutions/merge_intervals.py) |
+| 57 | Insert Interval | [solutions/insert_interval.py](solutions/insert_interval.py) |
 | 58 | Length Of Last Word | [solutions/length_of_last_word.py](solutions/length_of_last_word.py) |
 | 64 | Minimum Path Sum | [solutions/minimum_path_sum.py](solutions/minimum_path_sum.py) |
 | 66 | Plus One | [solutions/plus_one.py](solutions/plus_one.py) |
