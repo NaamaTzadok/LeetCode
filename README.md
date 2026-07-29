@@ -20,6 +20,7 @@
 | 28 | Find The Index Of The First Occurrence In A String | [solutions/find_the_index_of_the_first_occurrence_in_a_string.py](solutions/find_the_index_of_the_first_occurrence_in_a_string.py) |
 | 35 | Search Insert Position | [solutions/search_insert_position.py](solutions/search_insert_position.py) |
 | 36 | Valid Sudoku | [solutions/valid_sudoku.py](solutions/valid_sudoku.py) |
+| 39 | Combination Sum | [solutions/combination_sum.py](solutions/combination_sum.py) |
 | 42 | Trapping Rain Water | [solutions/trapping_rain_water.py](solutions/trapping_rain_water.py) |
 | 46 | Permutations | [solutions/permutations.py](solutions/permutations.py) |
 | 49 | Group Anagrams | [solutions/group_anagrams.py](solutions/group_anagrams.py) |
