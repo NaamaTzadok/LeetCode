@@ -92,4 +92,5 @@
 | 434 | Number of Segments in a String | [solutions/number_of_segments_in_a_string.py](number_of_segments_in_a_string.py) |
 | 448 | Find All Numbers Disappeared In An Array | [solutions/find_all_numbers_disappeared_in_an_array.py](solutions/find_all_numbers_disappeared_in_an_array.py) |
 | 459 | Repeated Substring Pattern | [solutions/repeated_substring_pattern.py](solutions/repeated_substring_pattern.py) |
+| 876 | Middle of the Linked List | [solutions/middle_of_the_linked_list.py](solutions/middle_of_the_linked_list.py) |
 | 2703 | Return Length of Arguments Passed | [solutions/return_length_of_arguments_passed.py](solutions/return_length_of_arguments_passed.py) |
